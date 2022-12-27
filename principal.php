@@ -11,7 +11,7 @@
 </script>
 </head>
 <body>
-
+<!-- Posicione esta tag no cabeçalho ou imediatamente antes da tag de fechamento do corpo. -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
